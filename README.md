@@ -55,10 +55,11 @@ This Next.js React Dashboard project provides a flexible and easy-to-use UI for 
 
 The dashboard includes several components that you can use to display data, such as:
 
-- Charts (Bar, Line, Pie, etc.)
-- Tables
+- Add User
+- Add any product
 - Cards
-- Notifications
+- Authentication
+- Status
 
 You can easily customize these components or create new ones to suit your project's needs.
 
