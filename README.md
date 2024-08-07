@@ -1,4 +1,4 @@
-# Next.js React Dashboard
+# Next.js React Dashboard 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
