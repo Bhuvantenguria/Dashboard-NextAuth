@@ -8,7 +8,7 @@ This Next.js React Dashboard project provides a flexible and easy-to-use UI for 
 
 
 ## Features
-
+ 
 - **Responsive Design**: Ensure a seamless user experience across devices with a responsive dashboard layout.
 - **Customizable Components**: Easily customize and extend dashboard components to fit your project's requirements.
 - **Data Visualization**: Utilize powerful charting libraries to visualize data and gain insights.
