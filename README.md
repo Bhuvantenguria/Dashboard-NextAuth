@@ -6,7 +6,6 @@
 
 This Next.js React Dashboard project provides a flexible and easy-to-use UI for integrating dashboards into various projects. Built on top of Next.js and React, it offers quick implementation and a polished user interface for data visualization and management.
 
-
 ## Features
  
 - **Responsive Design**: Ensure a seamless user experience across devices with a responsive dashboard layout.
