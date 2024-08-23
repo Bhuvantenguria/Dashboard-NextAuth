@@ -20,6 +20,7 @@ This Next.js React Dashboard project provides a flexible and easy-to-use UI for 
 
 ### Prerequisites
 
+
 - Node.js and npm installed on your machine.
 
 ### Installation
