@@ -40,7 +40,7 @@ This Next.js React Dashboard project provides a flexible and easy-to-use UI for 
 3. Install dependencies:
 
    ```bash
-   npm install
+   npm i
    ```
 
 4. Start the development server:
