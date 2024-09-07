@@ -13,7 +13,6 @@ This Next.js React Dashboard project provides a flexible and easy-to-use UI for 
 - **Data Visualization**: Utilize powerful charting libraries to visualize data and gain insights.
 - **Authentication**: Implement authentication and access control to secure your dashboard.
 - **Quick Setup**: Get started quickly with minimal setup and configuration.
-  
 
 ## Getting Started
 
